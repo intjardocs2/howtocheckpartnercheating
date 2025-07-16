@@ -5,7 +5,7 @@ How to Spy on a Cheating Partner: Do It Remotely and Discreetly
 
    <div align="center">
      <a href="https://t.me/spyremotely" target="_blank">
-       <img src="_static/chatNow.png" alt="Chat Now" style="width: 2000px;" />
+       <img src="_static/chatNow.png" alt="Chat Now" style="width: 200px;" />
      </a>
    </div>
 
